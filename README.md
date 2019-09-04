@@ -10,6 +10,7 @@ In my free time, I enjoy playing volleyball and cooking.  I love being creative 
 
 ## What I Hope to Learn
 As part of this Telling Stories with Data class, I hope to learn effective ways to communicate findings within data. In the environmental sustainability field, it is important to measure and report on a company's environmental footprint for voluntary and mandatory reporting  frameworks. For example, greenhouse gas emissions and how climate change will affect a company are complicated topics. While I am confident that I can explain these topics in an understandable way, using data to communicate this message would enhance my ability to drive action for a more sustainable future.  
+
 I hope to use the skills I learn in this class to better communicate the story of my company's environmental progress to my colleagues, senior managers, external rankers, and other community stakeholders. 
 
 ## Portfolio
