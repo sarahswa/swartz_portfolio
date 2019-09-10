@@ -15,7 +15,7 @@ I hope to use the skills I learn in this class to better communicate the story o
 
 ## Portfolio
 
-### In Class Examples
+### Testing out Different Displays with Sample Data
 [Musical Media Market Share Over Time](https://sarahswa.github.io/swartz_portfolio/musicexample)
 
 [Don't Rock the Boat]()
