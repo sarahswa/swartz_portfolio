@@ -20,4 +20,4 @@ I hope to use the skills I learn in this class to better communicate the story o
 
 [Titanic Passenger Survival](https://sarahswa.github.io/swartz_portfolio/titanicpass)  
 
-[Reimagining The Labour Party The Metamorphosis by the Economist](https://sarahswa.github.io/swartz_portfolio/facebooklikes)  
+[Reimagining The Labour Party Metamorphosis Chart by the Economist](https://sarahswa.github.io/swartz_portfolio/facebooklikes)  
