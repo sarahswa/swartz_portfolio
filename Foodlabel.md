@@ -21,7 +21,7 @@ Based on my user feedback, I adjusted my final re-design pictured below. I chose
 ![Final Re-Designed Visualization of COOL Compliance](Food Source Labeling COOL_v3.PNG)  
 
 
-Source: 
+Sources:  
 Kuchler, Fred, Catherine Greene, Maria Bowman, Kandice K. Marshall, John Bovay, and Lori Lynch. *Beyond Nutrition and Organic Labels—30 Years of Experience With Intervening in Food Labels*, ERR-239, U.S. Department of Agriculture, Economic Research Service, November 2017.  
 Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
