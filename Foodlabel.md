@@ -1,17 +1,27 @@
 ## Critique by Design
 ### Country of Origin Labeling (COOL)
 
-Original data vis and why I selected  
+The intersection of food and sustainability has always fascinated me. Many sustainability aspects of food can be communicated to consumers through the label such as organic, GMO-free, or locally grown. As I was scrolling through the United States Department of Agriculture’s website looking for visualizations to re-imagine, I came across the *Beyond Nutrition and Organic Labels—30 Years of Experience With Intervening in Food Labels* report which peaked my interest. The graph pictured below was found in the Country of Origin Labeling (COOL) section. Knowing where food comes from allows consumers to make informed choices and possibly more sustainable choices by choosing food grown domestically or closer to the consumer’s location. I choose to re-design this graph because I thought it displayed interesting information about compliance with COOL by commodity but was potentially misleading.  
+
+The graph can be found on page 63 [here]( https://www.ers.usda.gov/webdocs/publications/85687/err-239.pdf?v=0).  
 
 ![Original COOL Compliant by Commodity graph](Original Cool graph.PNG)  
 
-Process, insights from critique - what it led me to think about in redesign, wireframes  
+Through Stephen Few’s Data Visualization Effectiveness Profile, I came to identify a few key changes that I thought were necessary to the improve the visualization. Perception wise and aesthetically, I like the simplicity of this char and bar charts are easy for most people to understand. However, I found the chart to be un-useful, un-intuitive, and potentially un-truthful. As I was reading the COOL section in the report, I did not find this figure mentioned anywhere in the text; therefore, I thought that this graph needs to stand on its own with out any text context which it does not in its original form. As a few quick fixes, I though the title could be made more descriptive and that the commodities could be arranged in descending order. I felt that the chart was potentially misleading for a couple of reasons. It was not immediately clear to me that the values were in percent, and I wondered how beef could have more noncompliance findings than commodities reviewed. I was also alarmed at first to have such high rates of noncompliance with food before I realized that the noncompliance was only in food country origin labeling and not food safety. Given the note on the chart, I also though it was misleading to stack two bars next to each other when the gray bar represents the percent of retail sale and the orange bar represents percent of noncompliance findings **of** that commodity – really a percent of a percent.  
+
+When thinking about how to re-design the visualization, I tried to correct for these flaws that I saw. I tried out two different possibilities in my wireframe sketches, and I wanted to make sure each visualization could stand on its own with or without the context of the report. I tried to adjust for the percent of a percent situation with a stacked bar (imbedding the noncompliance findings within the percent of retail sales) and through a pie charts since both categories were parts of the whole 100%. Pictured below are my two wireframe sketches.  
 
 ![Wireframe 1](COOL wireframe 1.PNG)  ![Wireframe 2](COOL wireframe 2.PNG)
 
-insights from user feedback, what I changed, what your redesigned data visualization shows, 
-why you selected the data visualization you did, and what you attempted to show or do differently  
+After sketching out my designs, I asked three people for feedback.  Asking open ended questions without giving much context like, “What do you think this is?” and, “Is there anything you would change?” was very helpful. I had perceived my sketches as very comprehensive and understandable, but the feedback I received helped me correct some flaws. All of my reviewers preferred the bar graph to the pie chart; I think 8 categories is too many for a pie chart. By asking, “Why was only 20% of fruit reviewed?” one of my reviewers helped me realize that by labeling the bar as *commodities reviewed* instead of *percent of sales*, my bar chart was also misleading. Another reviewer helped me understand that the way I displayed the noncompliance findings in the bar chart was wrong as he interpreted one of the readings as 23% of vegetables were noncompliant. Perhaps the best piece of feedback I got was that the percent of commodities reviewed/percent of retail sales was irrelevant to what I was trying to show: noncompliance with COOL.  
+
+Based on my user feedback, I adjusted my final re-design pictured below. I chose to go with a stacked bar chart since my reviewers preferred this chart type and I felt as though each category was important to show separately and not group together to reduce the number of categories in a pie chart. By eliminating the percent of retail sale/percent of commodities reviewed information, I was able to focus on the message of noncompliance with COOL and make each commodities bar total to 100%. I wanted to convey the message that most food is still compliant with this regulation by giving the *Compliant with COOL* category a color other than gray – i.e. only 15% of beef is noncompliant with this regulation. I created this visualization through Tableau. I hope that this chart now is able to stand on its own with out the context of the report.  
+ 
 
 ![Final Re-Designed Visualization of COOL Compliance](Food Source Labeling COOL_v3.PNG)  
 
-Source: Kuchler, Fred, Catherine Greene, Maria Bowman, Kandice K. Marshall, John Bovay, and Lori Lynch. *Beyond Nutrition and Organic Labels—30 Years of Experience With Intervening in Food Labels*, ERR-239, U.S. Department of Agriculture, Economic Research Service, November 2017.
+
+Source: 
+Kuchler, Fred, Catherine Greene, Maria Bowman, Kandice K. Marshall, John Bovay, and Lori Lynch. *Beyond Nutrition and Organic Labels—30 Years of Experience With Intervening in Food Labels*, ERR-239, U.S. Department of Agriculture, Economic Research Service, November 2017.  
+Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
+http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
