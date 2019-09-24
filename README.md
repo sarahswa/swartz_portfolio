@@ -26,5 +26,8 @@ I hope to use the skills I learn in this class to better communicate the story o
 
 [OECD Data Visualization - Assignment 1](https://sarahswa.github.io/swartz_portfolio/datavis1) 
 
-[Critique by Design - Food Labeling](https://sarahswa.github.io/swartz_portfolio/Foodlabel) 
+[Critique by Design - Food Labeling](https://sarahswa.github.io/swartz_portfolio/Foodlabel)  
+
+### Final Project 
+[Climate Change on the Menu](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood)  
 
