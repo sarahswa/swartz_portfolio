@@ -17,8 +17,10 @@ The resolution will present how reducing meat consumption and thinking in a plan
 Overall emotional journey of my story arc:  
 ![story arc emotional journey](story arc.PNG)  
 Story line:  
-![beginning story](Story begining.PNG)
-![middle story](story middle.PNG)
+![beginning story](Story begining.PNG)  
+
+![middle story](story middle.PNG)  
+
 ![end story](Story end.PNG)
 
 #### Data  
@@ -30,13 +32,14 @@ I will be using four data sets for my project.
 2. The United States Environmental Protection Agency (EPA) details the portion of the U.S.’s emissions that come from the agriculture sector. I plan on using this information bring the viewer on a journey from climate change overall to the environmental impact of the agriculture sector within the U.S.  
 [EPA Emissions by Source]( https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#agriculture)  
 
-3. The GHG emissions of different types of food was published by Poore and Nemecek in the journal *Science*. I accessed the article from CMU’s Library. I will be using the mean emissions of each food type that Poore and Nemecek identified for this project. 
+3. The GHG emissions of different types of food was published by Poore and Nemecek in the journal *Science*. I accessed the article from CMU’s Library. I will be using the mean emissions of each food type that Poore and Nemecek identified for this project.  
 [GHG Emissions of Food](https://science-sciencemag-org.proxy.library.cmu.edu/content/360/6392/987/tab-figures-data)  
 
 4. To compare the GHG emissions of food to their protein content, I will be using John Hopkins Medicine’s protein content of food data source.  
 [John Hopkins Protein Content of Food](https://www.hopkinsmedicine.org/johns_hopkins_bayview/_docs/medical_services/bariatrics/nutrition_protein_content_common_foods.pdf)  
 
-**Sources**
+**Sources**  
+
 Johns Hopkins Medicine. (2019, June). PROTEIN CONTENT OF COMMON FOODS. Retrieved from https://www.hopkinsmedicine.org/johns_hopkins_bayview/_docs/medical_services/bariatrics/nutrition_protein_content_common_foods.pdf  
 Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987–992. https://doi.org/10.1126/science.aaq0216  
 United Nations Framework Convention on Climate Change. (2019, January 6). Greenhouse Gas (GHGs) Emissions without Land Use, Land-Use Change and Forestry (LULUCF), in kilotonne CO2 equivalent. In UN Data. Retrieved from http://data.un.org/Data.aspx?d=GHG&f=seriesID%3aGHG  
