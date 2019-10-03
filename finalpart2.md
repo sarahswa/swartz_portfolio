@@ -4,11 +4,15 @@
 
 #### User Research Protocol
 During this feedback process, I hope to identify ways in which to improve my story. I am interested to hear how my users might perceive my story and the message they take from the data visualizations and narrative. I will pay close attention for any places where I might have confused the user or inadvertently mislead them.  
+
 The target audience I hope to reach with my story are people who know a little bit about climate change but do not know how they are personally contributing or positive reduction actions that they can take. My audience will have heard about some of the doom and gloom of climate change professed through news articles but will not have conducted research on their own nor will they have been formally taught about the subject.  
+
 I will rely on my past interactions with family, friends, and colleagues to pick individuals who fit my target audience to interview. Since I work in the environmental field, I tend to surround myself with people who have a basic understanding of climate change. I have discussed climate change with most people at some level, and I find that my family, friends, and colleagues will often excitedly tell me about an article that they just read about the environment.  
+
 #### Wireframes
 Below is a picture of the wireframes I created for part two of this project which expanded upon my initial sketches. I used the data sources I identified in [Part 1 of this project](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood) to create the charts. I used Datawrapper to turn my raw data into charts for all of these visualizations.  
 ![wireframes](Wireframes.PNG)
+
 #### Interview Script
 Hi – I’m working on a story for one of my classes, and I would love to get some feedback.  Would you be willing to spend 10 minutes providing some anonymous feedback?
 
@@ -49,9 +53,15 @@ I received some great suggestions for improvement as well. One of the individual
 ![Wireframe Changes](wireframes2.PNG)
 
 #### Next Steps
-•	Re-create the *GHG Emissions of Common Food* scatter chart in Tableau
-•	Bring my re-created sketch which compares the U.S.’s agriculture emissions to another country to life
-•	Create the *Ways to meet daily protein needs* in Datawrapper
-•	Edit and, in some places, build out my narrative
-•	Understand how to build content on Shorthand
-•	Formally cite all sources with APA format rather than simply listing the website
+•	Re-create the *GHG Emissions of Common Food* scatter chart in Tableau  
+
+•	Bring my re-created sketch which compares the U.S.’s agriculture emissions to another country to life  
+
+•	Create the *Ways to meet daily protein needs* in Datawrapper  
+
+•	Edit and, in some places, build out my narrative  
+
+•	Understand how to build content on Shorthand  
+
+•	Formally cite all sources with APA format rather than simply listing the website  
+
