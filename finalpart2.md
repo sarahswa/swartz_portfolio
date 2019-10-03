@@ -8,13 +8,13 @@ The target audience I hope to reach with my story are people who know a little b
 I will rely on my past interactions with family, friends, and colleagues to pick individuals who fit my target audience to interview. Since I work in the environmental field, I tend to surround myself with people who have a basic understanding of climate change. I have discussed climate change with most people at some level, and I find that my family, friends, and colleagues will often excitedly tell me about an article that they just read about the environment.  
 #### Wireframes
 Below is a picture of the wireframes I created for part two of this project which expanded upon my initial sketches. I used the data sources I identified in [Part 1 of this project](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood) to create the charts. I used Datawrapper to turn my raw data into charts for all of these visualizations.  
-![wireframes]()
+![wireframes](Wireframes.PNG)
 #### Interview Script
 Hi – I’m working on a story for one of my classes, and I would love to get some feedback.  Would you be willing to spend 10 minutes providing some anonymous feedback?
 
 Great!  Throughout this process there are no wrong answers, I am simply looking for how people might perceive these frames as a website.
 
-Please take some time to review the wireframes here.  [For questions 1 and 2, stop people after a slide or two and ask; ask remaining questions at end].
+Please take some time to review the wireframes here.  (For questions 1 and 2, stop people after a slide or two and ask; ask remaining questions at end).
 
 1.	Can you tell me what you think this site is?
 
@@ -46,7 +46,7 @@ I received mixed reviews about my use of pictures in the beginning.  I am intere
 I received some great suggestions for improvement as well. One of the individuals suggested breaking up the amount of information shown in the third wireframe, and, on my final website, I will plan to have less information appear on the screen at one time. One individual suggested that I build out more options of ways people can cut back on meat into my narrative at the end of the story i.e. meatless Mondays. One individual suggested transforming my *Ways to meet daily protein needs* chart into a stacked bar chart with colors that represent a veggie, meat, or dairy protein source. This was my eventual goal for this chart, so it was great to hear that that is what he expected. 
 
 #### Changes to Wireframes
-![Wireframe Changes]()
+![Wireframe Changes](wireframes2.PNG)
 
 #### Next Steps
 •	Re-create the *GHG Emissions of Common Food* scatter chart in Tableau
