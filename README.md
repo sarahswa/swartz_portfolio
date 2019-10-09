@@ -31,4 +31,4 @@ I hope to use the skills I learn in this class to better communicate the story o
 ### Final Project 
 [Climate Change on the Menu](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood)  
 [Part II](https://sarahswa.github.io/swartz_portfolio/finalpart2)  
-
+[Part III](https://sarahswa.github.io/swartz_portfolio/finalpart3) 
