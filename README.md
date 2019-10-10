@@ -1,5 +1,5 @@
 # swartz_portfolio
-A portfolio of my work from Carnegie Mellon University's Telling Stories with Data class
+A portfolio of my work from Carnegie Mellon University's Telling Stories with Data class.
 
 ## About Me
 Hi, my name is Sarah Swartz, and I am a positive, driven individual who aims to lead companies and organizations toward a low-carbon economy and a more sustainable future. I work in corporate sustainability for a financial services firm in the Pittsburgh area. In this role, I track, manage, and report on the company’s environmental resource use. This involves energy and greenhouse gas emissions, waste, water, and paper. I also manage our environmental employee engagement group called the Sustainability Ambassadors.  
