@@ -15,7 +15,7 @@ I hope to use the skills I learn in this class to better communicate the story o
 
 ## Portfolio
 
-### Testing out Different Displays with Sample Data
+### Data Visualizations with Sample Data
 [Musical Media Market Share Over Time](https://sarahswa.github.io/swartz_portfolio/musicexample)
 
 [Titanic Passenger Survival](https://sarahswa.github.io/swartz_portfolio/titanicpass)  
@@ -28,7 +28,11 @@ I hope to use the skills I learn in this class to better communicate the story o
 
 [Critique by Design - Food Labeling](https://sarahswa.github.io/swartz_portfolio/Foodlabel)  
 
-### Final Project 
-[Climate Change on the Menu](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood)  
+### Final Project - Climate Change on the Menu  
+
+[Story on Shorthand](https://carnegiemellon.shorthandstories.com/climate-change-on-the-menu/index.html)  
+
+**Behind the Scenes Work**  
+[Part I](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood)  
 [Part II](https://sarahswa.github.io/swartz_portfolio/finalpart2)  
 [Part III](https://sarahswa.github.io/swartz_portfolio/finalpart3) 
