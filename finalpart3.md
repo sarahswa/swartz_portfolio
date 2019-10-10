@@ -4,6 +4,7 @@
 
 #### Overview  
 This page serves as a behind the scenes glimpse into the last stage of my final project. To see the journey from the beginning please us the following links:  
+
 [Part I – The Idea](https://sarahswa.github.io/swartz_portfolio/climatechangeandfood)  
 * Project outline
 * High-level summary
@@ -11,6 +12,7 @@ This page serves as a behind the scenes glimpse into the last stage of my final 
 * Data sources and planned use
 * Links to publicly-accessible data
 * Approach   
+
 [Part II – Design and User Research](https://sarahswa.github.io/swartz_portfolio/finalpart2)  
 * Sketches and storyboards
 * User research and findings
@@ -41,9 +43,13 @@ Because I know my story will not stay live on Shorthand forever, but, alas, the 
 
 #### Sources  
 *Data*  
+
 Johns Hopkins Medicine. (2019, June). PROTEIN CONTENT OF COMMON FOODS. Retrieved from https://www.hopkinsmedicine.org/johns_hopkins_bayview/_docs/medical_services/bariatrics/nutrition_protein_content_common_foods.pdf  
+
 Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987–992. https://doi.org/10.1126/science.aaq0216  
+
 United Nations Framework Convention on Climate Change. (2019, January 6). Greenhouse Gas (GHGs) Emissions without Land Use, Land-Use Change and Forestry (LULUCF), in kilotonne CO2 equivalent. In UN Data. Retrieved from http://data.un.org/Data.aspx?d=GHG&f=seriesID%3aGHG  
+
 United States Environmental Protection Agency. (n.d.). Sources of Greenhouse Gas Emissions. In Greenhouse Gas Emissions. Retrieved from https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#agriculture  
 
 *Research*  
@@ -53,12 +59,19 @@ United States Environmental Protection Agency. (n.d.). Sources of Greenhouse Gas
 4. Project Drawdown. (2014-2019). Food Plant Rich Diet. In Project Drawdown. Retrieved from https://www.drawdown.org/solutions/food/plant-rich-diet  
 5. Cookie and Kate. (2019). 29 Best Vegetarian Recipes. In Cookie and Kate. Retrieved from https://cookieandkate.com/29-best-vegetarian-recipes/  
 
-*Pictures*
+*Pictures*  
+
 "West Dorset : Grassy Field & Cattle" by Lewis Clarke, licensed under CC BY-SA 2.0 : https://www.geograph.org.uk/photo/5509016  
+
 "Burger from The Counter." by ancient history, licensed under CC BY-NC 2.0: https://www.flickr.com/photos/7745843@N03/4908963649  
+
 "Stir Fry with Veggies, Noodels and Tofu" by formalfallacy @ Dublin (Victor), licensed under CC BY-NC-SA 2.0: https://www.flickr.com/photos/10856846@N07/7177160577  
+
 "Salad 1" by keepps, licensed under CC BY-NC-SA 2.0: https://www.flickr.com/photos/93799798@N00/53990186  
+
 "Hearty Paleo Vegetable Soup" by paleogrubs, licensed under CC BY 2.0: https://www.flickr.com/photos/141771825@N06/27118735403  
+
 "1875" by miikkahoo, licensed under CC BY-SA 2.0: https://www.flickr.com/photos/25016563@N00/2653619208  
+
 "beet, greens and goat cheese linguine_main" by Jackie Newgent RDN, CDN, licensed under CC BY-NC-SA 2.0: https://www.flickr.com/photos/73343592@N08/20591232539  
 
